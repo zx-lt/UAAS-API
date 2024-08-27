@@ -2,8 +2,8 @@ const getConfig = (key) => {
   const defaultConfig = {
     SCHOOL_CODE: "test",
     PORT: 3000,
-    TEST_ACCOUNT: "14468232290",
-    TEST_PASSWORD: 23050704,
+    TEST_ACCOUNT: "test",
+    TEST_PASSWORD: 123456,
     TEST_TOKEN_NAME: "test-token",
   }
   if (process.env[key]) {

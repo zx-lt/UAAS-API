@@ -9,9 +9,9 @@
   "10822": {
     "type": "qingguo",
     "code": "10822",
-    "name": "广东白云学院",
-    "host": "jwgl.baiyunu.edu.cn",
-    "domain": "jwgl.baiyunu.edu.cn",
+    "name": "南京航天航空大学",
+    "host": "https://authserver.nuaa.edu.cn",
+    "domain": "authserver.nuaa.edu.cn",
     "ssl": true,
     "chatset": "gbk"
   },
